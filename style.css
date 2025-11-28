@@ -1,0 +1,40 @@
+.container {
+    width: 100vw;
+    height: 50vh;
+    background-color: blueviolet;
+}
+
+.search {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.search__title {
+    padding: 0;
+    margin: 0;
+}
+.search__inner {
+    margin-top: 400px;
+}
+
+.part {
+    width: 100%;
+}
+
+.part__name {
+    text-align: center;
+}
+
+.part__brand {
+    text-align: center;
+}
+
+.part__partnumber {
+    text-align: center;
+}
+
+.search__partnumber {
+    margin-top: 50px;
+    text-align: center;
+}
